@@ -77,8 +77,8 @@ The frontend demonstrates a robust integration of the **Tambo UI SDK**, showcasi
 
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/ArpitKrSingh7/tamboBackend.git
-   cd tamboBackend
+   git clone https://github.com/rahim709/RepoExplainer.git
+   cd RepoExplainer/RepoExplainerBackend
 ```
 
 2. **Install dependencies**
@@ -110,6 +110,9 @@ The frontend demonstrates a robust integration of the **Tambo UI SDK**, showcasi
 ### Frontend Installation
 
 1. **Navigate to frontend directory**
+```bash
+   cd ../RepoExplainerFrontend
+```
 
 2. **Install dependencies**
 ```bash
@@ -144,3 +147,7 @@ The frontend demonstrates a robust integration of the **Tambo UI SDK**, showcasi
 ## 🤝 Contributing
 
 Contributions are welcome! This project is part of the Tambo AI ecosystem. Please open an issue or submit a pull request for any improvements to the component library, tool definitions, or core functionality.
+
+## 📄 License
+
+This project is licensed under the ISC License.
