@@ -147,7 +147,3 @@ The frontend demonstrates a robust integration of the **Tambo UI SDK**, showcasi
 ## 🤝 Contributing
 
 Contributions are welcome! This project is part of the Tambo AI ecosystem. Please open an issue or submit a pull request for any improvements to the component library, tool definitions, or core functionality.
-
-## 📄 License
-
-This project is licensed under the ISC License.
